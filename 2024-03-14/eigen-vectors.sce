@@ -17,5 +17,5 @@ disp(c, d)
    0.   2.   0.
    0.   0.   2.
 
-   The first one is eigen values, and the next ones are eigen vectors.
+   The first one is eigen values, and the next ones are eigen vectors. (the third one is the diagonal matrix).
 */
