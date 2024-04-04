@@ -5,7 +5,7 @@ r = rank(A);
 disp("Rank of A is: ", r);
 k = kernel(A);
 nullity = size(k,2);
-disp(nullity);
+disp("Nullity is: ", nullity);
 n = size(A,2);
 if(r+nullity==n) then
     disp("Rank Theorem Verified!");
