@@ -22,5 +22,5 @@ function[] = gauss_seidel(A, b)
         itr=itr+1;
         tol=norm(x_old-x);
     end
-    printf('Solution of the system is : \n x1=%f\n x2=%f\n x3=%f\n x4= %f\nIterations=%d',x(1),x(2),x(3),x(4),itr);
+    printf('Solution of the system is : \n x1= %f\n x2= %f\n x3= %f\n x4= %f\nIterations=%d',x(1),x(2),x(3),x(4),itr);
 endfunction
