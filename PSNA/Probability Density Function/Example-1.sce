@@ -1,4 +1,4 @@
-// Probability Density Function
+// Probability Density Function (Example-1)
 
 clc; clear;
 
